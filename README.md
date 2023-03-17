@@ -4,14 +4,16 @@ This Online Retail II data set contains all the transactions occurring for a UK-
 # Content
 *Attribute Information:*
 
-* InvoiceNo: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation.
-* StockCode: Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product.
-* Description: Product (item) name. Nominal.
-* Quantity: The quantities of each product (item) per transaction. Numeric.
-* InvoiceDate: Invice date and time. Numeric. The day and time when a transaction was generated.
-* UnitPrice: Unit price. Numeric. Product price per unit in sterling (Â£).
-* CustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.
-* Country: Country name. Nominal. The name of the country where a customer resides.
+| Column | Description | Data Type |
+|--------|-------------|-----------|
+| InvoiceNo | Invoice number | Nominal, 6-digit integral number |
+| StockCode | Product (item) code | Nominal, 5-digit integral number |
+| Description | Product (item) name | Nominal |
+| Quantity | Quantities of each product (item) per transaction | Numeric |
+| InvoiceDate | Invice date and time | Numeric |
+| UnitPrice | Unit price | Numeric, product price per unit in sterling (Â£) |
+| CustomerID | Customer number | Nominal, 5-digit integral number |
+| Country | Country name | Nominal | 
 
 *Acknowledgements*
 * Chen, D. Sain, S.L., and Guo, K. (2012), Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining, Journal of Database Marketing and Customer Strategy Management, Vol. 19, No. 3, pp. 197-208.
