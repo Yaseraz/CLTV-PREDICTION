@@ -1,3 +1,4 @@
+![Customer Lifetime Value](https://user-images.githubusercontent.com/122373044/225990159-1c83938a-71a6-45bb-8bab-3a9695773a73.png)
 
 
 # Context
